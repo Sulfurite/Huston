@@ -28,7 +28,8 @@ figure > img {
 }
 
 figcaption {
-    font-family: italic;
+    font-style: italic;
+    font-family:serif
 }
 
 html {
