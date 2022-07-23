@@ -1,0 +1,36 @@
+body {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+TD, th {
+    padding: 1px;
+    border: thick double gray;
+}
+
+figure {
+float: right;
+}
+figure > img {
+    height: 300px;
+}
+
+figcaption {
+    font-family: italic;
+}
+
+html {
+    background-image:url("first_bg.jpg")
+}
